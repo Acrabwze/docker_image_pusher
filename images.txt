@@ -6,3 +6,4 @@ nginx
 --platform=linux/arm64 xiaoyaliu/alist
 mysql:latest
 --platform=linux/arm64 openeuler/openeuler:20.03
+--platform=linux/arm64 gcc:11.3.0
