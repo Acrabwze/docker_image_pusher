@@ -8,4 +8,4 @@ mysql:latest
 --platform=linux/arm64 openeuler/openeuler:20.03
 --platform=linux/arm64 gcc:11.3.0
 python:3.9-alpine
---platform=linux/arm64 python:3.9.10-alpine
+--platform=linux/arm64 python:3.9.10
