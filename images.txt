@@ -14,4 +14,5 @@
 #--platform=linux/arm64 r-base:4.4.1
 #--platform=linux/arm64 continuumio/anaconda3:latest
 #centos:centos7
---platform=linux/arm64 ubuntu:20.04
+#--platform=linux/arm64 ubuntu:20.04
+python:3.9.10
