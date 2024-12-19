@@ -18,3 +18,4 @@
 # python:3.9.10
 keynetworks/ztncui
 debian:8
+--platform=linux/arm64 debian:8
