@@ -16,7 +16,8 @@
 #centos:centos7
 #--platform=linux/arm64 ubuntu:20.04
 # python:3.9.10
-keynetworks/ztncui
-debian:8
---platform=linux/arm64 debian:8
-xubiaolin/zerotier-planet:latest
+#keynetworks/ztncui
+#debian:8
+#--platform=linux/arm64 debian:8
+#xubiaolin/zerotier-planet:latest
+homeassistant/home-assistant:latest
