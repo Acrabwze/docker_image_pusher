@@ -21,4 +21,4 @@
 #--platform=linux/arm64 debian:8
 #xubiaolin/zerotier-planet:latest
 #homeassistant/home-assistant:latest
---platform=linux/arm64 quay.io/biocontainers/edta:2.2.2--hdfd78af_1
+--platform=linux/arm64 continuumio/miniconda3
