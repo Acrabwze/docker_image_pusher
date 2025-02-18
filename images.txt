@@ -21,4 +21,8 @@
 #--platform=linux/arm64 debian:8
 #xubiaolin/zerotier-planet:latest
 #homeassistant/home-assistant:latest
---platform=linux/arm64 continuumio/miniconda3
+# --platform=linux/arm64 continuumio/miniconda3
+justsong/one-api:latest
+redis:latest
+mysql:8.2.0
+ghcr.io/open-webui/open-webui:main
