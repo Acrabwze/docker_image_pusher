@@ -29,6 +29,4 @@
 # ghcr.io/open-webui/pipelines:main
 #ghcr.io/open-webui/open-webui:main
 #ubuntu:20.04
-redis:latest
-mysql:8.2.0
-justsong/one-api:latest
+vllm/vllm-openai:v0.6.6
