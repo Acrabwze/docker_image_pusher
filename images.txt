@@ -29,9 +29,9 @@
 # ghcr.io/open-webui/pipelines:main
 #ghcr.io/open-webui/open-webui:main
 #ubuntu:20.04
-# vllm/vllm-openai:v0.6.6
+vllm/vllm-openai:v0.6.6
 # open-webui:main
 # ghcr.io/huggingface/text-embeddings-inference:1.6
 
 
-vllm-openai:0.6.6
+vllm/vllm-openai:v0.6.5
