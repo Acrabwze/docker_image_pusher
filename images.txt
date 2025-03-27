@@ -32,4 +32,4 @@
 #vllm/vllm-openai:v0.6.6
 # open-webui:main
 # ghcr.io/huggingface/text-embeddings-inference:1.6
-ghcr.io/home-assistant/home-assistant:stable
+ghcr.io/home-assistant/home-assistant:latest
