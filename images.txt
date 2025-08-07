@@ -43,3 +43,4 @@
 #--platform=linux/arm64 wqferan/ragflow:nightly
 postgresql:latest
 neo4j:ubi9
+
