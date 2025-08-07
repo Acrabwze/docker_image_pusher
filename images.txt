@@ -41,6 +41,6 @@
 #valkey/valkey:8
 # --platform=linux/arm64 nvcr.io/nvidia/clara/clara-parabricks:4.5.0-1
 #--platform=linux/arm64 wqferan/ragflow:nightly
-postgresql:latest
+bitnami/postgresql:latest
 neo4j:ubi9
 
