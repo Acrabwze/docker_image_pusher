@@ -44,4 +44,4 @@
 #bitnami/postgresql:latest
 #neo4j:ubi9
 cinemore/cinemore-server:latest
---platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.9.1
+--platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.12.0rc1
