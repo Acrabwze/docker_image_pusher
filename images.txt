@@ -45,4 +45,5 @@
 #neo4j:ubi9
 # cinemore/cinemore-server:latest
 # --platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.12.0rc1
-nvcr.io/nvidia/clara/clara-parabricks:4.0.0-1
+# nvcr.io/nvidia/clara/clara-parabricks:4.0.0-1
+--platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.13.0rc3
