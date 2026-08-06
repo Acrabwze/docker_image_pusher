@@ -46,5 +46,5 @@
 # cinemore/cinemore-server:latest
 # --platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.12.0rc1
 # nvcr.io/nvidia/clara/clara-parabricks:4.0.0-1
---platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.20.2rc1
+--platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.23.0rc1
 # ghcr.io/rachelos/we-mp-rss:latest
